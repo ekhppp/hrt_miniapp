@@ -21,7 +21,7 @@
     color: var(--tg-theme-text-color);
     background-color: var(--tg-theme-section-bg-color);
 
-    width: 10%;
+    width: 100%;
     padding: 20px;           /* Внутренние отступы */
     border-radius: 1em;
 }
