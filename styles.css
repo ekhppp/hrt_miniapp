@@ -12,3 +12,16 @@
     width: 90%;
     margin-right: auto;
 }
+
+.body-global {
+    background-color: var(--tg-theme-bg-color);
+}
+
+.text-container {
+    color: var(--tg-theme-text-color);
+    background-color: var(--tg-theme-section-bg-color);
+
+    width: 10%;
+    padding: 20px;           /* Внутренние отступы */
+    border-radius: 1em;
+}
